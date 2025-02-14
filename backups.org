@@ -23,7 +23,7 @@
 | Music       | 34GB  | solid_ext4   | micro_docs |            |         |          |       |
 | Audiobooks  | 27GB  | solid_ext4   | micro_docs |            |         |          |       |
 | Soundtracks |       | SlowBackup   |            |            |         |          |       |
-| Twitter     |       | micro_docs   | solid_ext4 |            |         |          |       |
+| Twitter     | 42GB  | micro_docs   | solid_ext4 |            |         |          |       |
 | Pictures    | 142GB | micro_photos |            |            |         |          |       |
 | aisb        | 1.3GB | data         |            |            |         |          |       |
 | cora        | 9GB   | micro_docs   | solid_ntfs |            |         |          |       |
