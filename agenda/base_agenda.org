@@ -1,5 +1,4 @@
-# #  base_agenda.org -*- mode: Org -*-
-#+STARTUP: content
+# #  base_agenda.org -*- mode: Org -*- #+STARTUP: content
 #+STARTUP: agenda
 
 * Active
@@ -28,6 +27,13 @@ https://docs.openwdl.org/en/latest/WDL/add_plumbing/
 ** TRIAGE mise
 https://mise.jdx.dev/getting-started.html
 ** TRIAGE links
+https://www.doabooks.org/en
+https://www.researchhub.com/
+https://www.pubpeer.com/login
+https://gravatar.com
+https://lamport.azurewebsites.net/tla/tla.html
+https://old.learntla.com/introduction/
+https://www.patientlibrary.net/cgi-bin/documents.cgi
 https://www.uscis.gov/sites/default/files/document/forms/i-130.pdf
 https://smallpdf.com
 https://leftbookclub.com/books/
@@ -36,6 +42,14 @@ https://guides.library.harvard.edu/law-and-society
 https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
 https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
 https://www.cv-library.co.uk/
+** carousel-mode l/R pin
+** automation of logic / spass
+https://www.mpi-inf.mpg.de/departments/automation-of-logic
+** colour palette extraction
+https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
+- gaussian
+- k-means
+
 * Job Groups
 ** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
 ** [[file:dataset_todos.org::*Datasets][Datasets]]
