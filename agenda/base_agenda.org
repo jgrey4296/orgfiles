@@ -27,6 +27,9 @@ https://docs.openwdl.org/en/latest/WDL/add_plumbing/
 ** TRIAGE mise
 https://mise.jdx.dev/getting-started.html
 ** TRIAGE links
+https://assisted.site/viewport/
+https://rangedtouch.com/category/gamestudiesstudybuddies/
+https://mixtape.scunning.com/09-difference_in_differences
 https://www.doabooks.org/en
 https://www.researchhub.com/
 https://www.pubpeer.com/login
@@ -49,6 +52,11 @@ https://www.mpi-inf.mpg.de/departments/automation-of-logic
 https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
 - gaussian
 - k-means
+
+** TRIAGE sphinx pyproject reading
+load the pyproject.toml and set certain sphinx config settings
+like project name, copyright, author name, release version,
+extensions, theme
 
 * Job Groups
 ** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
