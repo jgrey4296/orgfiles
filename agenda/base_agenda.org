@@ -7,6 +7,25 @@
 ** [[id:8390af85-0c2d-4f73-b06c-65e06854c0e2][Librarian]]
 
 * Triage
+- https://direnv.net/
+** repo update
+- ruff
+- tox
+- readthedocs
+- sphinx
+- uv / asdfd
+- github actions
+  
+- relevant repos: [doot, dootle, bibble, sphinx_bib_domain, _config, _templates, bibliography]
+*** release script
+[[file:/media/john/data/github/_templates/files/python-mode/__release][release script]]
+- run checks
+- select bump type
+- bump version
+- generate changelog
+- commit changes
+- tag release
+
 ** TRIAGE backup tasks
 - archive
 - assets
@@ -16,6 +35,7 @@
 - movies
 - music
 - pictures
+- use rsync --progress --partial --archive
 ** TRIAGE emacs security
 https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html
 
@@ -27,6 +47,7 @@ https://docs.openwdl.org/en/latest/WDL/add_plumbing/
 ** TRIAGE mise
 https://mise.jdx.dev/getting-started.html
 ** TRIAGE links
+https://www.senate.gov/legislative/rules_procedure.htm
 https://assisted.site/viewport/
 https://rangedtouch.com/category/gamestudiesstudybuddies/
 https://mixtape.scunning.com/09-difference_in_differences
@@ -59,7 +80,7 @@ like project name, copyright, author name, release version,
 extensions, theme
 
 * Job Groups
-** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
+** [[file:/media/john/data/github/jgrey4296.github.io/submodules_/bibliography/.tasks/org/bibliography_todos.org::*Bibliography][Bibliography]]
 ** [[file:dataset_todos.org::*Datasets][Datasets]]
 ** [[file:/media/john/data/github/python/doot/.tasks/doot_todos.org::*Doot][Doot]]
 ** [[file:dotnet_todos.org::*Dotnet][Dotnet]]
