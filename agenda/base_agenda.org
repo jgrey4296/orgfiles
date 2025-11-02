@@ -9,22 +9,9 @@
 * Triage
 - https://direnv.net/
 ** repo update
-- ruff
-- tox
-- readthedocs
-- sphinx
-- uv / asdfd
-- github actions
-  
-- relevant repos: [doot, dootle, bibble, sphinx_bib_domain, _config, _templates, bibliography]
-*** release script
-[[file:/media/john/data/github/_templates/files/python-mode/__release][release script]]
-- run checks
-- select bump type
-- bump version
-- generate changelog
-- commit changes
-- tag release
+** TRIAGE sphinx-autoapi
+- sort class contents to be: attributes -> static -> methods -> internal_methods
+- differentiate static methods, so they can be css selected
 
 ** TRIAGE backup tasks
 - archive
