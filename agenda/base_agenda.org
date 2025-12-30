@@ -1,6 +1,8 @@
 # #  base_agenda.org -*- mode: Org -*- #+STARTUP: content
 #+STARTUP: agenda
 
+https://jg4296.vivaldi.net
+
 * Active
 ** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
 
@@ -65,6 +67,12 @@ https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
 load the pyproject.toml and set certain sphinx config settings
 like project name, copyright, author name, release version,
 extensions, theme
+
+** ledger
+http://ledger-cli.org
+
+** treesit-fold-range-alist
++ debug fold range utils
 
 * Job Groups
 ** [[file:/media/john/data/github/jgrey4296.github.io/submodules_/bibliography/.tasks/org/bibliography_todos.org::*Bibliography][Bibliography]]
