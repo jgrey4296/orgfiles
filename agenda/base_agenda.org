@@ -8,6 +8,8 @@ https://jg4296.vivaldi.net
 
 ** [[id:8390af85-0c2d-4f73-b06c-65e06854c0e2][Librarian]]
 
+** Polyglot
+
 * Triage
 - https://direnv.net/
 ** repo update
@@ -29,7 +31,10 @@ https://jg4296.vivaldi.net
 https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html
 
 ** TRIAGE WDL
-https://docs.openwdl.org/en/latest/WDL/add_plumbing/
+https://docs.openwdl.org
+https://github.com/broadinstitute/cromwell
+https://github.com/chanzuckerberg/miniwdl
+https://github.com/biowdl
 
 ** TRIAGE custom python breakpoint to print context on entry
 ** TRIAGE replace +org/dwim-at-point
@@ -73,6 +78,15 @@ http://ledger-cli.org
 
 ** treesit-fold-range-alist
 + debug fold range utils
+
+** keybind view
+buffer rows of keys:
+[q-p]
+[a-l]
+[z-m]
+
+Press key, expand that letter
+
 
 * Job Groups
 ** [[file:/media/john/data/github/jgrey4296.github.io/submodules_/bibliography/.tasks/org/bibliography_todos.org::*Bibliography][Bibliography]]
