@@ -4,29 +4,19 @@
 https://jg4296.vivaldi.net
 
 * Active
-** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
+** [[file://media/john/data/github/lisp/blood-bind][Blood Bind]]
 
-** [[id:8390af85-0c2d-4f73-b06c-65e06854c0e2][Librarian]]
+** [[file://media/john/data/github/polyglot][Polyglot]]
 
-** Polyglot
+** [[/media/john/data/github/python/instal][instal]]
 
 * Triage
 - https://direnv.net/
 ** repo update
-** TRIAGE sphinx-autoapi
+** sphinx-autoapi
 - sort class contents to be: attributes -> static -> methods -> internal_methods
 - differentiate static methods, so they can be css selected
 
-** TRIAGE backup tasks
-- archive
-- assets
-- audiobooks
-- datasets
-- proceedings
-- movies
-- music
-- pictures
-- use rsync --progress --partial --archive
 ** TRIAGE emacs security
 https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html
 
@@ -67,14 +57,6 @@ https://www.mpi-inf.mpg.de/departments/automation-of-logic
 https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
 - gaussian
 - k-means
-
-** TRIAGE sphinx pyproject reading
-load the pyproject.toml and set certain sphinx config settings
-like project name, copyright, author name, release version,
-extensions, theme
-
-** ledger
-http://ledger-cli.org
 
 ** treesit-fold-range-alist
 + debug fold range utils
