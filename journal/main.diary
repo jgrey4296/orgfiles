@@ -22,31 +22,18 @@ Jan 23, 2025 uc
 Jan 21, 2025 seetec
 
 ;; Events
-Dec 16, 2024 Steph Finals
-Jan 24, 2024 First Messaged Steph
-Dec 2, 2024 Viva Pinata for Steph
 Dec 9, 1952 Penny Born
+Apr 26, 1955 Peter Born
 
 ;; Blocks
 %%(diary-block 2024 9 18 2024 10 2) Missouri
 
 ;; Birthdays
-Sep 1 Stephs Fathers Birthday
-Nov 3 Stephs Mothers Birthday
-Jun 12 Stephs Sisters Birthday
 Dec 9 Penny Birthday
+Apr 26 Peter Birthday
 
 ;; Repeats
 * 18 Money
-%%(jg-diary-range '(2024 9 1) '(2024 12 20) (jg-diary-day-p :tue))  Steph Class
 %%(jg-diary-tick-tock 14 '(2024 11 19) t) Black Bin
-Jan 24 Steph Messaging
 
 ;; Misc
-Feb 20, 2025 dark souls to steph
-Feb 17, 2025 lego botanicals to steph
-Feb 20, 2025 lego roses to steph
-Feb 14, 2025 branston pickle to steph
-Feb 13, 2025 liquorice allsorts to steph
-Oct 28, 2024 slime rancher to steph
-Nov 20, 2024 viva pinaata to steph

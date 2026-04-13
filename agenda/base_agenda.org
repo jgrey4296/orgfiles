@@ -1,67 +1,224 @@
 # #  base_agenda.org -*- mode: Org -*- #+STARTUP: content
 #+STARTUP: agenda
 
-https://jg4296.vivaldi.net
-
-* Active
-** [[file://media/john/data/github/lisp/blood-bind][Blood Bind]]
-
-** [[file://media/john/data/github/polyglot][Polyglot]]
-
-** [[/media/john/data/github/python/instal][instal]]
+* Today
+- Lisp package updates
+- [[file:/media/john/data/github/jgrey4296.github.io/posts/week_in_review][Week in Review]]
+- [[file:/media/john/data/github/jgrey4296.github.io/posts/technical/mso][Making Sense of]]
+  - [ ] Ltac2
+  - [ ] Sphinx
+  - [ ] ccalc
+  - [ ] talespin
+  - [ ] clingo
+  - [ ] tla
+  - [ ] z3
+  - [ ] gentoo
+  - [ ] [[https://ocaml.org/docs/installing-ocaml][ocaml]]
+  - [ ] uv locking/freezing/syncing
+    
+- rocq
+  - [ ] modal relations
+  - [ ] ocaml
+  - [ ] rocq doc
+- polyglot
+  - [ ] arg passing to subcmds
+  - [ ] template
+  - [ ] tasks
+  - [ ] separate tasks/tools/languages with subdirs instead of prefixes
+  - [ ] use .polyglot dir instead of .tasks?
+- [ ] bibble - extract writer defaults into a bibtexwriter
+- [ ] xref / definition mode
+- [ ] bib build task - change/full option
+- [ ] bib-domain: generate directive.
+- [ ] emacs startup add uid to org persist gc lock file name
+- Media
+  - cowboy bebop
+  - the conversation
+  - lego batman
+  - the hitchhikers guide to the galaxy
+  - cowboys and aliens
+  - seven psychopaths
+  - mr right
+  - three billboards
+  - steamboy
+  - romeo and juliet
+  - [[https://en.wikipedia.org/wiki/Andrei_Tarkovsky][andrew tarkovsky]]
+  - [[https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean][pirates of the caribbean]]
+  - [[https://en.wikipedia.org/wiki/Raising_Hope][raising hope]]
+  - [[https://en.wikipedia.org/wiki/Wallace_%26_Gromit][wallace and gromit]]
+  - [[https://en.wikipedia.org/wiki/The_Lion_King][the lion king]]
 
 * Triage
-- https://direnv.net/
-** repo update
-** sphinx-autoapi
-- sort class contents to be: attributes -> static -> methods -> internal_methods
-- differentiate static methods, so they can be css selected
-
-** TRIAGE emacs security
-https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html
-
-** TRIAGE WDL
-https://docs.openwdl.org
-https://github.com/broadinstitute/cromwell
-https://github.com/chanzuckerberg/miniwdl
-https://github.com/biowdl
-
-** TRIAGE custom python breakpoint to print context on entry
-** TRIAGE replace +org/dwim-at-point
-** TRIAGE mise
-https://mise.jdx.dev/getting-started.html
-** TRIAGE links
-https://www.senate.gov/legislative/rules_procedure.htm
-https://assisted.site/viewport/
-https://rangedtouch.com/category/gamestudiesstudybuddies/
-https://mixtape.scunning.com/09-difference_in_differences
-https://www.doabooks.org/en
-https://www.researchhub.com/
-https://www.pubpeer.com/login
-https://gravatar.com
-https://lamport.azurewebsites.net/tla/tla.html
-https://old.learntla.com/introduction/
-https://www.patientlibrary.net/cgi-bin/documents.cgi
-https://www.uscis.gov/sites/default/files/document/forms/i-130.pdf
-https://smallpdf.com
-https://leftbookclub.com/books/
-https://calculatingempires.net/
-https://guides.library.harvard.edu/law-and-society
-https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
-https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
-https://www.cv-library.co.uk/
-** carousel-mode l/R pin
-** automation of logic / spass
+** automation of logic / spass                   :research_group:
 https://www.mpi-inf.mpg.de/departments/automation-of-logic
-** colour palette extraction
+** bandcamp
+https://kaizengameworks.bandcamp.com
+https://beicoli.bandcamp.com/album/laika-aged-through-blood-ost
+
+** camera focus templates                         :godot:
+- ankle level
+- birds eye
+- head height
+- isometric
+- over the shoulder
+- path gizmo
+- position sequence
+
+** colour palette extraction                      :python:machine_learning:
 https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
 - gaussian
 - k-means
 
-** treesit-fold-range-alist
+** debuggers                                      :polyglot:
+- pdb (custom breakpoint)
+- gdb
+- lldb
+- adb
+- elixir
+- prolog
+- godot
+- dotnet
+- jdk
+- ocaml
+** dot local
+- isabelle
+- encounter editor
+- etcher
+- fact
+- ghidra
+- hex kit
+- ksp
+- protege
+- qpdf
+- toolbox
+- trench broom
+
+** ekphrasis
+https://ekphrasiscomic.neocities.org
+
+** emacs lisp xref
+- simplest xref backend implementation
+
+** emacs list dependency tree of a set 
+
+** flask                                          :bibliography:polyglot:python:
+https://flask.palletsprojects.com/en/stable/quickstart/#html-escaping
+** flycheck godot                                 :emacs:godot:
+
+** ghidra
+** git attributes diff settings
+bash, bibtex, csharp, elixir, html, kotlin, markdown, python, rust, tex
+are all built in patterns
+
+** godot editor shortcuts
+- fold all subgroups
+- make command palette work everywhere
+  
+** godot graphnode
+https://gdscript.com/solutions/godot-graphnode-and-graphedit-tutorial/
+
+** godot maybe type
+** godot - no gdscript access to scene exporter plugins
+
+** godot plugin activator command palette
+** godot plugin logger?
+** godot plugin select workspace
+** godot project settings tab order
+** godot theme preview
+** latex page borders                             :latex:
+** libreoffice                                    :spreadsheet:
+- look at cli
+  [[https://books.libreoffice.org/en/CG252/CG252.html][calc manual]]
+  [[https://books.libreoffice.org/en/MG252/MG252.html][math manual]]
+** mise                                           :automation:task_management:
+https://mise.jdx.dev/getting-started.html
+** replace +org/dwim-at-point                     :lisp:
+** rust rules
+https://github.com/KSD-CO/rust-rule-engine/wiki
+** tidal template                                 :supercollider:polyglot:
+
+** treesit-fold-range-alist                       :lisp:
 + debug fold range utils
 
-** keybind view
+** trenchbroom
+https://trenchbroom.github.io/manual/latest/
+
+** WDL
+https://docs.openwdl.org
+https://github.com/broadinstitute/cromwell
+https://github.com/chanzuckerberg/miniwdl
+https://github.com/biowdl
+** youtube playlists
+** z3
+* Triage URLs
+- https://www.gnu.org/software/gcal/manual/gcal.html
+- https://diataxis.fr
+- [[https://ccrma.stanford.edu/~jos/mdft/][JOS Maths]]
+- [[https://photos.google.com/share/AF1QipP-9ZMPXGmftA68LYhSl5XGB7PVvuvPuLa1XuBWrSxpAXyfUaQsHfRUdwTV6UomSQ?pli=1&key=ZlpLOVlibXJQREdRS2VMOVh0MHpkTWxneGRyM0dn][freya holmers cat photos]]
+- [[https://github.com/sphinx-doc/sphinx/pull/14372][a good PR writeup example]]
+- [[https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing][Wiki signs of ai writing]]
+- https://carmenerror.com
+- https://runevision.com
+- https://www.nasa.gov/gallery/journey-to-the-moon/
+- https://dr.eamer.dev/downloads/
+- https://www.swiftsalary.com/get-paid-testing-websites-and-apps/
+- [[https://bbs.archlinux.org/viewtopic.php?id=209542][samba performance]]
+- https://wyrd.science/wyrd-science-8-on-sale-now/
+- https://whatcoloristhat.one
+- https://www.jank.cool
+- https://www.squidi.net/three/about.php
+- https://langorigami.com/crease-patterns/
+- https://toolkit.climate.gov/NCA5
+- https://github.com/lukeslp/awesome-accessibility
+- https://www.isa-afp.org
+- https://kagi.com/smallweb/
+- https://sonniss.com
+- https://libro.fm
+- https://www.mrbreakfast.com/cereal_timeline.asp
+- https://olivia.science/posts/
+- https://thevfxschool.com
+- [[https://lighthouse-atlas.netlify.app/#3/48/-30][lighthouses]]
+- [[https://opensource.org/licenses][open source licenses]]
+- [[https://www.crossref.org/documentation/reference-linking/data-and-software-citation-deposit-guide/][software citation guide]]
+- https://xikipedia.org
+- https://mermaid.js.org
+- https://direnv.net/
+- https://www.senate.gov/legislative/rules_procedure.htm
+- https://assisted.site/viewport/
+- https://rangedtouch.com/category/gamestudiesstudybuddies/
+- https://mixtape.scunning.com/09-difference_in_differences
+- https://www.doabooks.org/en
+- https://www.researchhub.com/
+- https://www.pubpeer.com/login
+- https://gravatar.com
+- https://lamport.azurewebsites.net/tla/tla.html
+- https://old.learntla.com/introduction/
+- https://www.patientlibrary.net/cgi-bin/documents.cgi
+- https://www.uscis.gov/sites/default/files/document/forms/i-130.pdf
+- https://smallpdf.com
+- https://leftbookclub.com/books/
+- https://calculatingempires.net/
+- https://guides.library.harvard.edu/law-and-society
+- https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
+- https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
+- https://www.cv-library.co.uk/
+* Active
+
+** [[file:/media/john/data/github/baldurs_data][baldurs_data]]                                  :data:
+- [[https://gibberlings3.github.io/iesdp/opcodes/index.htm][iesdp]]
+- setup
+- add [[https://construct.readthedocs.io/en/latest/intro.html][construct]]
+- get data from zip task
+- parse data [bif, key, tlk, dlg]
+- save all parsed data
+- save specific parsed data
+- report on data
+
+** [[file:/media/john/data/github/lisp/blood-bind][blood bind]]                                    :lisp:keybinds:
+- [[file:/media/john/data/github/lisp/blood][blood]] - ( [[https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html][emacs security]] )
+- direct creation of keymaps
+
+*** keybind view
 buffer rows of keys:
 [q-p]
 [a-l]
@@ -69,36 +226,161 @@ buffer rows of keys:
 
 Press key, expand that letter
 
+** [[file:/media/john/data/github/lisp/ccalc-mode][ccalc-mode]]                                    :logic:
+- building core prolog
+- implement formal logic
+- emacs mode to check syntax
+- ob-ccalc to run in babel.
 
-* Job Groups
-** [[file:/media/john/data/github/jgrey4296.github.io/submodules_/bibliography/.tasks/org/bibliography_todos.org::*Bibliography][Bibliography]]
-** [[file:dataset_todos.org::*Datasets][Datasets]]
-** [[file:/media/john/data/github/python/doot/.tasks/doot_todos.org::*Doot][Doot]]
-** [[file:dotnet_todos.org::*Dotnet][Dotnet]]
-** [[file:elixir_todos.org::*Elixir][Elixir]]
-** [[file:/media/john/data/github/_config/.tasks/emacs_todos.org::*Emacs][Emacs]]
-** [[file:godot_todos.org::*Godot][Godot]]
-** [[file:homepage_todos.org::*Homepage][Homepage]]
-** [[file:jobsearch_todos.org::*Job Search][Job Search]]
-** [[file:jvm_todos.org::*JVM][JVM]]
-** [[file:lisp_todos.org::*Lisp][Lisp]]
-** [[file:python_todos.org::*Python][Python]]
-** [[file:rust_todos.org::*Rust][Rust]]
-** [[file:/media/john/data/github/_templates/.tasks/template_todos.org::*Templates][Templates]]
-** [[file:misc_todos.org::*Misc][Misc]]
+** definition and lookup                         :lisp:
+- [[file:/media/john/data/github/lisp/lookup_ivies][lookup-ivies]]
+*** [[file:/media/john/data/github/jgrey4296.github.io/submodules_/bookmarks][bookmarks]]
+
+*** [[file:/media/john/data/github/definitions][definitions]]                                  :text:
+- [[file:/media/john/data/github/lisp/definition-lookup-mode][definition-lookup-mode]]
+
+*** [[file:/media/john/data/github/quotes][quotes]]                                        :tex:
+- [[file:/media/john/data/github/python/sphinx_quote_domain][sphinx-quote-domain]]
+- [[file:/media/john/data/github/lisp/quote-mode][quote-mode]]
+
+*** [[file:/media/john/data/github/tags][tags]]
+*** [[file:/media/john/data/github/timelines][timelines]]                                    :text:
+- [[file:/media/john/data/github/python/sphinx_timeline_domain][sphinx-timeline-domain]]
+- [[file:/media/john/data/github/lisp/timeline-mode][timeline-mode]]
+** [[file:/media/john/data/github/lisp/emacs-talespin][emacs-talespin]]                                :text:lisp:talespin:
+- implement stubs
+- add tests
+
+** [[file:/media/john/data/github/godot/formal_party][Formal Party]]                                  :godot:
+- design notes
+** [[file:/media/john/data/github/godot/asset_packer][gd-asset-packer]]                               :godot:
+[[https://docs.godotengine.org/en/stable/community/asset_library/submitting_to_assetlib.html][submitting to asset lib]]
+[[https://raw.githubusercontent.com/aaronfranke/gitignore/godot/Godot.gitignore][example gitignore]]
+** [[file:/media/john/data/github/godot/templates][gd-templates]]                                  :godot:
+** [[file:/media/john/data/github/imgen][imgen]]                                         :image:
+- generate initial data
+- lib for data access and manipulation
+- render stage
+
+** [[/media/john/data/github/python/instal][instal]]                                        :logic:python:
+- tests
+- simplify
+
+** [[file:/media/john/data/github/rocq/jg_logic][jg-logic]]                                      :rocq:logic:
+- notes
+- proof langs
+- modal
+- description
+- exclusion
+- linear
+- ocaml
+
+- environment setup
+- CoqProject file setup
+- rocq makefile
+
+** [[file:/media/john/data/github/sitemaps][sitemaps processing]]                           :xml:data:
+- asdf plugins for xmlstarlet/lint/xidel
+- extract urls, sort, reduce
+
+** [[file:/media/john/data/github/soundclips][soundclips]]                                    :audio:
+- NIN ghosts stubs.
+- patterns
+- synthdefs
+** [[file:/media/john/data/github/lisp/timing-mode][timing mode]]                                   :lisp:
+** [[file:/media/john/data/github/twitter-parser][twitter-parser]]                                :data:org:twitter:
+* Perpetual
+
+** [[file:/media/john/data/github/jgrey4296.github.io/submodules_/aisb][aisb]]
+- tagging
+- cleaning
+- formatting
+- latex compile
+- split pdfs
+** [[file:/media/john/data/assets][assets]]
+- todos
+- backup
+- [[file:/media/john/data/github/polyglot/poly-tasks/todo/assets][polyglot tasks]]
+
+** [[file:/media/john/data/github/bibliography][bibliography]]                                  :library:text:
+- mastodon/bluesky posting
+- [[file:/media/john/data/github/python/bibble][bibble]]
+- [[file:/media/john/data/github/python/sphinx_bib_domain][sphinx-bib-domain]]
+
+** [[file:/media/john/data/github/jgrey4296.github.io][blog]]                                          :text:
+** [[file:/media/john/data/github/ci-tests][ci-tests]]
+- dagger
+  https://docs.dagger.io/getting-started/installation/
+** [[file:/media/john/data/github/_config][emacs config]]
+** [[file://media/john/data/github/polyglot][polyglot]]                                      :automation:
+- get sitemap's task.
+** [[file:/media/john/data/github/python/state-zoo][state-zoo]]                                     :python:
+** [[file:/media/john/data/github/_templates][system templates]]
+
+** [[file:/media/john/data/github/tech_notes][tech_notes]]                                    :text:
+- packages might be better as a spreadsheet
+
+* Other
+** [[file:/media/john/data/github/lisp/carousel-minor-mode][carousel-minor-mode]]                           :lisp:
+- pin leftmost/rightmost buffer
+** [[file:/media/john/data/github/lisp/clingo-ts-mode][clingo-ts-mode]]                                :lisp:
+** [[file:/media/john/data/github/lisp/code-shy-minor-mode][code-shy-minor-mode]]                           :lisp:
+** [[file:/media/john/data/github/lisp/evil-states-plus][evil-states-plus]]                              :lisp:
+** [[file:/media/john/data/github/lisp/flycheck-toml][flycheck-toml]]                                 :lisp:
+** [[file:/media/john/data/github/lisp/jacamo-mode][jacamo-mnode]]                                  :lisp:
+** [[file:/media/john/data/github/lisp/librarian][librarian]]                                     :lisp:
+- refactor to use Eask better
+- tests
+
+:modules:
+backend
+biblio
+browse
+config
+doc
+docsets
+envs
+insert
+man
+online
+regular
+tags
+words
+:END:
+
+** [[file:/media/john/data/github/lisp/macro-tools][macro-tools]]                                   :lisp:
+** [[file:/media/john/data/github/lisp/misc-modes][misc-modes]]                                    :lisp:
+** [[file:/media/john/data/github/lisp/opa-mode][opa-mode]]                                      :lisp:
+** [[file:/media/john/data/github/lisp/soar-mode][soar-mode]]                                     :lisp:
+** [[file:/media/john/data/github/lisp/spec-handling][spec-handling]]                                 :lisp:
+
+** [[file:/media/john/data/github/lisp/agentspeak-mode][agentspeak-mode]]                               :lisp:
+
+** [[file:/media/john/data/github/python/jgdv][jgdv]]                                          :python:
+
+
+** Misc sphinx                                   :python:
+- [[file:/media/john/data/github/python/sphinx_org_domain][sphinx org domain]]
+- [[file:/media/john/data/github/python/sphinx_toctree_plus][sphinx toctree plus]]
+*** [[file:/media/john/data/github/python/sphinx-autoapi][sphinx autoapi]]
+- sort class contents to be: attributes -> static -> methods -> internal_methods
+- differentiate static methods, so they can be css selected
+
+** ASDF Plugins                                  :asdf:
+- sdkman
+- [[file:/media/john/data/github/asdf-plugins/asdf-android-tools][android-tools]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-ceptre][ceptre]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-eask][eask]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-fstar][fstar]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-ghidra][ghidra]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-godot][godot]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-isabelle][isabelle]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-opa][opa]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-plantuml][plantuml]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-soar][soar]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-texlive][texlive]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-tidal][tidal]]
+- [[file:/media/john/data/github/asdf-plugins/asdf-tlaplus][tlaplus]]
+
 * [[file:../notes/misc.org::Triage][Notes]]
-* [[file:/media/john/data/github/bibliography/bookmarks/urls.org][Links/urls]]
-** Main
-*** [[file:/media/john/data/github/lisp/blood/blood][Blood]]
-*** [[file:/media/john/data/github/python/doot/doot][Doot]]
-*** [[file:/media/john/data/github/python/tomlguard][tomlguard]]
-*** [[file:~/github/python/acab][Acab]]
-*** [[file:~/github/python/instal][Instal]]
-*** [[file:~/github/python/corana][Corana]]
-** Secondary
-*** [[file:~/github/jgrey4296.github.io/wiki_/quotes][Quotes]]
-*** [[file:~/github/jgrey4296.github.io/wiki_/taxonomies][Taxonomies]]
-*** [[~/github/jgrey4296.github.io/wiki_/taxonomies/DSLs.org][DSLs]]
-*** [[file:~/github/bibliography/main][Bibliography]]
-*** [[file:~/library/twitter][Twitter Threads]]
-** [[file:~/github/jgrey4296.github.io/orgfiles/primary/research_questions.org][Research Questions]]
+* [[file:/media/john/data/github/bookmarks/orgs/urls.org][Links/urls]]
