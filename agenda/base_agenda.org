@@ -2,7 +2,7 @@
 #+STARTUP: agenda
 
 * Today
-- [ ] Regular Update Script:
+- [ ] [[/media/john/data/github/_templates/shells/scripts/weekly-update][Regular Update Script:]]
   - update apt/emerge
   - freshclam
   - bookmarks
@@ -34,7 +34,8 @@
   - [ ] quotes domain
   - [ ] bib build task - change/full option
 - [ ] xref / definition mode
-- [ ] emacs startup add uid to org persist gc lock file name
+- [ ] emacs
+  - [ ] on startup add uid to org persist gc lock file name
 - Media
   - lego batman
   - the hitchhikers guide to the galaxy
@@ -43,8 +44,6 @@
   - mr right
   - three billboards
   - steamboy
-  - la la land
-  - romeo and juliet
   - [[https://en.wikipedia.org/wiki/Andrei_Tarkovsky][andrew tarkovsky]]
   - [[https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean][pirates of the caribbean]]
   - [[https://en.wikipedia.org/wiki/Raising_Hope][raising hope]]
