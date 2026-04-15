@@ -2,9 +2,15 @@
 #+STARTUP: agenda
 
 * Today
-- Lisp package updates
-- [[file:/media/john/data/github/jgrey4296.github.io/posts/week_in_review][Week in Review]]
-- [[file:/media/john/data/github/jgrey4296.github.io/posts/technical/mso][Making Sense of]]
+- [ ] Regular Update Script:
+  - update apt/emerge
+  - freshclam
+  - bookmarks
+  - tags
+  - asdf
+- [ ] Lisp package updates
+- [ ] [[file:/media/john/data/github/jgrey4296.github.io/posts/week_in_review][Week in Review]]
+- [ ] [[file:/media/john/data/github/jgrey4296.github.io/posts/technical/mso][Making Sense of]]
   - [ ] Ltac2
   - [ ] Sphinx
   - [ ] ccalc
@@ -15,25 +21,21 @@
   - [ ] gentoo
   - [ ] [[https://ocaml.org/docs/installing-ocaml][ocaml]]
   - [ ] uv locking/freezing/syncing
-    
-- rocq
+- [ ] rocq
   - [ ] modal relations
   - [ ] ocaml
   - [ ] rocq doc
-- polyglot
-  - [ ] arg passing to subcmds
-  - [ ] template
-  - [ ] tasks
-  - [ ] separate tasks/tools/languages with subdirs instead of prefixes
-  - [ ] use .polyglot dir instead of .tasks?
-- [ ] bibble - extract writer defaults into a bibtexwriter
+- [ ] bibtex
+  - [ ] bibble
+    - [ ] extract writer defaults into a bibtexwriter
+    - [ ] test template writing
+  - [ ] sphinx bib domain
+    - [ ] generate timeline directive.
+  - [ ] quotes domain
+  - [ ] bib build task - change/full option
 - [ ] xref / definition mode
-- [ ] bib build task - change/full option
-- [ ] bib-domain: generate directive.
 - [ ] emacs startup add uid to org persist gc lock file name
 - Media
-  - cowboy bebop
-  - the conversation
   - lego batman
   - the hitchhikers guide to the galaxy
   - cowboys and aliens
@@ -41,12 +43,14 @@
   - mr right
   - three billboards
   - steamboy
+  - la la land
   - romeo and juliet
   - [[https://en.wikipedia.org/wiki/Andrei_Tarkovsky][andrew tarkovsky]]
   - [[https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean][pirates of the caribbean]]
   - [[https://en.wikipedia.org/wiki/Raising_Hope][raising hope]]
   - [[https://en.wikipedia.org/wiki/Wallace_%26_Gromit][wallace and gromit]]
   - [[https://en.wikipedia.org/wiki/The_Lion_King][the lion king]]
+  - [[https://en.wikipedia.org/wiki/Power_Rangers][power rangers]]
 
 * Triage
 ** automation of logic / spass                   :research_group:
@@ -132,6 +136,8 @@ https://gdscript.com/solutions/godot-graphnode-and-graphedit-tutorial/
   [[https://books.libreoffice.org/en/MG252/MG252.html][math manual]]
 ** mise                                           :automation:task_management:
 https://mise.jdx.dev/getting-started.html
+** proof general - window control
+
 ** replace +org/dwim-at-point                     :lisp:
 ** rust rules
 https://github.com/KSD-CO/rust-rule-engine/wiki
@@ -151,7 +157,14 @@ https://github.com/biowdl
 ** youtube playlists
 ** z3
 * Triage URLs
+- https://github.com/siftystudio/viv
+- https://lilura1.blogspot.com/p/crpg-blog.html
+- https://grainrad.com
+- https://texturelabs.org
+- https://dr.eamer.dev/datavis/gallery/
+- https://knowyourmeme.com/
 - https://www.gnu.org/software/gcal/manual/gcal.html
+- https://en.wikipedia.org/wiki/Shirley_Jackson
 - https://diataxis.fr
 - [[https://ccrma.stanford.edu/~jos/mdft/][JOS Maths]]
 - [[https://photos.google.com/share/AF1QipP-9ZMPXGmftA68LYhSl5XGB7PVvuvPuLa1XuBWrSxpAXyfUaQsHfRUdwTV6UomSQ?pli=1&key=ZlpLOVlibXJQREdRS2VMOVh0MHpkTWxneGRyM0dn][freya holmers cat photos]]
