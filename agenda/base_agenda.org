@@ -2,6 +2,9 @@
 #+STARTUP: agenda
 
 * Today
+- [ ] list composers [[https://en.wikipedia.org/wiki/List_of_classical_music_composers_by_era][wiki list of composers]]
+- [-] add git-lfs to homepage
+- [ ] split gifs into separate images
 - [ ] [[/media/john/data/github/_templates/shells/scripts/weekly-update][Regular Update Script:]]
   - update apt/emerge
   - freshclam
@@ -26,47 +29,46 @@
   - [ ] ocaml
   - [ ] rocq doc
 - [ ] bibtex
+  - [ ] bibliography -> the library
+  - [ ] a @redirect type.
+  - [ ] a @retraction type
+  - [ ] a @preprint type
+  - [ ] tag word cloud
   - [ ] bibble
     - [ ] extract writer defaults into a bibtexwriter
     - [ ] test template writing
   - [ ] sphinx bib domain
     - [ ] generate timeline directive.
   - [ ] quotes domain
-  - [ ] bib build task - change/full option
+  - [ ] build task - change/full option
+  - [ ] header summarise file
+  - [ ] difference between bibtex and variants
 - [ ] xref / definition mode
 - [ ] emacs
   - [ ] on startup add uid to org persist gc lock file name
 - Media
+  - [[https://en.wikipedia.org/wiki/Tucker_%26_Dale_vs._Evil][tucker and dale vs evil]]
+  - [[https://en.wikipedia.org/wiki/Ex_Machina_(film)][ex machina]]
+  - [[https://en.wikipedia.org/wiki/Leviathan_(1989_film)][leviathan]]
   - lego batman
   - the hitchhikers guide to the galaxy
   - cowboys and aliens
   - seven psychopaths
   - mr right
   - three billboards
-  - steamboy
+  - videodrome
+  - scanners
+  - crash
+  - jg ballard
   - [[https://en.wikipedia.org/wiki/Andrei_Tarkovsky][andrew tarkovsky]]
   - [[https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean][pirates of the caribbean]]
   - [[https://en.wikipedia.org/wiki/Raising_Hope][raising hope]]
-  - [[https://en.wikipedia.org/wiki/Wallace_%26_Gromit][wallace and gromit]]
   - [[https://en.wikipedia.org/wiki/The_Lion_King][the lion king]]
   - [[https://en.wikipedia.org/wiki/Power_Rangers][power rangers]]
 
 * Triage
 ** automation of logic / spass                   :research_group:
 https://www.mpi-inf.mpg.de/departments/automation-of-logic
-** bandcamp
-https://kaizengameworks.bandcamp.com
-https://beicoli.bandcamp.com/album/laika-aged-through-blood-ost
-
-** camera focus templates                         :godot:
-- ankle level
-- birds eye
-- head height
-- isometric
-- over the shoulder
-- path gizmo
-- position sequence
-
 ** colour palette extraction                      :python:machine_learning:
 https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
 - gaussian
@@ -99,52 +101,68 @@ https://www.dayroselane.com/hydrants/details/42_368105_-71_108042
 ** ekphrasis
 https://ekphrasiscomic.neocities.org
 
-** emacs lisp xref
+** emacs
+*** lisp xref
 - simplest xref backend implementation
 
-** emacs list dependency tree of a set 
+*** list dependency tree of a set 
+
+*** proof general - window control
+*** replace +org/dwim-at-point                     :lisp:
+*** treesit-fold-range-alist                       :lisp:
++ debug fold range utils
+*** timer to clean empty buffers
+- auto delete empty buffers that are *temp|new*
+
+
+*** fold line / to last x
 
 ** flask                                          :bibliography:polyglot:python:
 https://flask.palletsprojects.com/en/stable/quickstart/#html-escaping
-** flycheck godot                                 :emacs:godot:
-
 ** ghidra
-** git attributes diff settings
-bash, bibtex, csharp, elixir, html, kotlin, markdown, python, rust, tex
-are all built in patterns
-
-** godot editor shortcuts
+** godot
+*** flycheck                                    :emacs:godot:
+*** editor shortcuts
 - fold all subgroups
 - make command palette work everywhere
   
-** godot graphnode
+*** graphnode
 https://gdscript.com/solutions/godot-graphnode-and-graphedit-tutorial/
 
-** godot maybe type
-** godot - no gdscript access to scene exporter plugins
+*** maybe type
+*** no gdscript access to scene exporter plugins
 
-** godot plugin activator command palette
-** godot plugin logger?
-** godot plugin select workspace
-** godot project settings tab order
-** godot theme preview
-** latex page borders                             :latex:
+*** plugin activator command palette
+*** plugin logger?
+*** plugin select workspace
+*** project settings tab order
+*** theme preview
+*** camera focus templates                       :godot:
+- ankle level
+- birds eye
+- head height
+- isometric
+- over the shoulder
+- path gizmo
+- position sequence
+
+
+** latex
+*** page borders                           :latex:
 ** libreoffice                                    :spreadsheet:
 - look at cli
   [[https://books.libreoffice.org/en/CG252/CG252.html][calc manual]]
   [[https://books.libreoffice.org/en/MG252/MG252.html][math manual]]
 ** mise                                           :automation:task_management:
 https://mise.jdx.dev/getting-started.html
-** proof general - window control
+** Relative and Ordinal Meta Quotation
 
-** replace +org/dwim-at-point                     :lisp:
+lispy: (f `(a b))
+rocqy: defined parser layers
+
 ** rust rules
 https://github.com/KSD-CO/rust-rule-engine/wiki
 ** tidal template                                 :supercollider:polyglot:
-
-** treesit-fold-range-alist                       :lisp:
-+ debug fold range utils
-
 ** trenchbroom
 https://trenchbroom.github.io/manual/latest/
 
@@ -155,39 +173,48 @@ https://github.com/chanzuckerberg/miniwdl
 https://github.com/biowdl
 ** youtube playlists
 ** z3
+
 * Triage URLs
+- https://wiki.free.law
+- https://build-server-protocol.github.io/
+- https://en.wikipedia.org/wiki/Robotic_process_automation
+- https://www.gamepoems.com/home
+- https://wiki.savescience.eu/index.php?title=Anti-Autocracy_Handbook
+- https://dr.eamer.dev/code/api/
+- https://xoxofest.com
+- https://gamingthepast.net
+- https://www.gameuidatabase.com/index.php
 - https://github.com/siftystudio/viv
 - https://lilura1.blogspot.com/p/crpg-blog.html
-- https://grainrad.com
-- https://texturelabs.org
+- https://grainrad.com - dithering
+- https://texturelabs.org - free textures
 - https://dr.eamer.dev/datavis/gallery/
 - https://knowyourmeme.com/
-- https://www.gnu.org/software/gcal/manual/gcal.html
-- https://en.wikipedia.org/wiki/Shirley_Jackson
-- https://diataxis.fr
+- [[https://www.gnu.org/software/gcal/manual/gcal.html][gcal]]
+- [[https://en.wikipedia.org/wiki/Shirley_Jackson][shirley jackson]]
+- https://diataxis.fr - technical docs best practices
 - [[https://ccrma.stanford.edu/~jos/mdft/][JOS Maths]]
 - [[https://photos.google.com/share/AF1QipP-9ZMPXGmftA68LYhSl5XGB7PVvuvPuLa1XuBWrSxpAXyfUaQsHfRUdwTV6UomSQ?pli=1&key=ZlpLOVlibXJQREdRS2VMOVh0MHpkTWxneGRyM0dn][freya holmers cat photos]]
 - [[https://github.com/sphinx-doc/sphinx/pull/14372][a good PR writeup example]]
 - [[https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing][Wiki signs of ai writing]]
-- https://carmenerror.com
-- https://runevision.com
-- https://www.nasa.gov/gallery/journey-to-the-moon/
-- https://dr.eamer.dev/downloads/
-- https://www.swiftsalary.com/get-paid-testing-websites-and-apps/
+- https://carmenerror.com - ?
+- [[https://runevision.com][rune skovbo johansen's blog]]
+- [[https://www.nasa.gov/gallery/journey-to-the-moon/][nasa artemis photos]]
+- [[https://dr.eamer.dev/][luke steuber's website]]
+- [[https://github.com/lukeslp/awesome-accessibility][awesome accessibility]]
 - [[https://bbs.archlinux.org/viewtopic.php?id=209542][samba performance]]
-- https://wyrd.science/wyrd-science-8-on-sale-now/
-- https://whatcoloristhat.one
-- https://www.jank.cool
-- https://www.squidi.net/three/about.php
-- https://langorigami.com/crease-patterns/
-- https://toolkit.climate.gov/NCA5
-- https://github.com/lukeslp/awesome-accessibility
-- https://www.isa-afp.org
-- https://kagi.com/smallweb/
-- https://sonniss.com
-- https://libro.fm
-- https://www.mrbreakfast.com/cereal_timeline.asp
-- https://olivia.science/posts/
+- [[https://wyrd.science/wyrd-science-8-on-sale-now/][wyrd science]]
+- https://whatcoloristhat.one - usability, colors, colour blindness
+- [[https://www.jank.cool][jank]] - jon hicks, brendan caldwell, graham smith
+- [[https://www.squidi.net/three/about.php][game mechanics]]
+- [[https://langorigami.com/crease-patterns/][origami crease patterns]]
+- [[https://toolkit.climate.gov/NCA5][NCA5]] - climate change
+- [[https://www.isa-afp.org][archive of formal proofs]]
+- [[https://kagi.com/smallweb/][kagi smallweb]]
+- [[https://sonniss.com][sonniss sound effect libraries]]
+- [[https://libro.fm][libro audiobooks]]
+- [[https://www.mrbreakfast.com/cereal_timeline.asp][cereal timeline]]
+- [[https://olivia.science/posts/][olivia guest blog]]
 - https://thevfxschool.com
 - [[https://lighthouse-atlas.netlify.app/#3/48/-30][lighthouses]]
 - [[https://opensource.org/licenses][open source licenses]]
@@ -212,8 +239,17 @@ https://github.com/biowdl
 - https://calculatingempires.net/
 - https://guides.library.harvard.edu/law-and-society
 - https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
+** jobs
+- https://www.swiftsalary.com/get-paid-testing-websites-and-apps/
+- [[https://www.cv-library.co.uk/][cv library]]
 - https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
-- https://www.cv-library.co.uk/
+** bandcamp
+https://escote.bandcamp.com/album/column-address-strobe
+https://kaizengameworks.bandcamp.com
+https://beicoli.bandcamp.com/album/laika-aged-through-blood-ost
+** itchio
+https://cyningstan.itch.io/barbarians-dos
+https://orama-interactive.itch.io/pixelorama
 * Active
 
 ** [[file:/media/john/data/github/baldurs_data][baldurs_data]]                                  :data:
