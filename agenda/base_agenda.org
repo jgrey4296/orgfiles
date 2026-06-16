@@ -1,70 +1,22 @@
 # #  base_agenda.org -*- mode: Org -*- #+STARTUP: content
 #+STARTUP: agenda
 
+* 2026-06-16
+- polyglot - routine.
+- algorithmic intractability as aesthetic
+- cycle through code folders
+- grand architecture as ai
+- create file elisp lib + file template + hooks
+  
+
 * Today
-- [ ] list composers [[https://en.wikipedia.org/wiki/List_of_classical_music_composers_by_era][wiki list of composers]]
-- [-] add git-lfs to homepage
-- [ ] split gifs into separate images
-- [ ] [[/media/john/data/github/_templates/shells/scripts/weekly-update][Regular Update Script:]]
-  - update apt/emerge
-  - freshclam
-  - bookmarks
-  - tags
-  - asdf
-- [ ] Lisp package updates
-- [ ] [[file:/media/john/data/github/jgrey4296.github.io/posts/week_in_review][Week in Review]]
-- [ ] [[file:/media/john/data/github/jgrey4296.github.io/posts/technical/mso][Making Sense of]]
-  - [ ] Ltac2
-  - [ ] Sphinx
-  - [ ] ccalc
-  - [ ] talespin
-  - [ ] clingo
-  - [ ] tla
-  - [ ] z3
-  - [ ] gentoo
-  - [ ] [[https://ocaml.org/docs/installing-ocaml][ocaml]]
-  - [ ] uv locking/freezing/syncing
-- [ ] rocq
-  - [ ] modal relations
-  - [ ] ocaml
-  - [ ] rocq doc
-- [ ] bibtex
-  - [ ] bibliography -> the library
-  - [ ] a @redirect type.
-  - [ ] a @retraction type
-  - [ ] a @preprint type
-  - [ ] tag word cloud
-  - [ ] bibble
-    - [ ] extract writer defaults into a bibtexwriter
-    - [ ] test template writing
-  - [ ] sphinx bib domain
-    - [ ] generate timeline directive.
-  - [ ] quotes domain
-  - [ ] build task - change/full option
-  - [ ] header summarise file
-  - [ ] difference between bibtex and variants
-- [ ] xref / definition mode
-- [ ] emacs
-  - [ ] on startup add uid to org persist gc lock file name
-- Media
-  - [[https://en.wikipedia.org/wiki/Tucker_%26_Dale_vs._Evil][tucker and dale vs evil]]
-  - [[https://en.wikipedia.org/wiki/Ex_Machina_(film)][ex machina]]
-  - [[https://en.wikipedia.org/wiki/Leviathan_(1989_film)][leviathan]]
-  - lego batman
-  - the hitchhikers guide to the galaxy
-  - cowboys and aliens
-  - seven psychopaths
-  - mr right
-  - three billboards
-  - videodrome
-  - scanners
-  - crash
-  - jg ballard
-  - [[https://en.wikipedia.org/wiki/Andrei_Tarkovsky][andrew tarkovsky]]
-  - [[https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean][pirates of the caribbean]]
-  - [[https://en.wikipedia.org/wiki/Raising_Hope][raising hope]]
-  - [[https://en.wikipedia.org/wiki/The_Lion_King][the lion king]]
-  - [[https://en.wikipedia.org/wiki/Power_Rangers][power rangers]]
+- https://en.wikipedia.org/wiki/Maximum_Pleasure_Guaranteed
+- glow
+- https://en.wikipedia.org/wiki/Street_Food_(TV_series)
+- xmen
+- tech notes of .local
+- https://manpages.ubuntu.com/manpages/jammy/man8/run-parts.8.html
+- integrate notes into polyglot branches
 
 * Triage
 ** automation of logic / spass                   :research_group:
@@ -106,16 +58,15 @@ https://ekphrasiscomic.neocities.org
 - simplest xref backend implementation
 
 *** list dependency tree of a set 
-
 *** proof general - window control
 *** replace +org/dwim-at-point                     :lisp:
 *** treesit-fold-range-alist                       :lisp:
 + debug fold range utils
 *** timer to clean empty buffers
 - auto delete empty buffers that are *temp|new*
-
-
 *** fold line / to last x
+
+*** json insert/navigate mode
 
 ** flask                                          :bibliography:polyglot:python:
 https://flask.palletsprojects.com/en/stable/quickstart/#html-escaping
@@ -175,6 +126,60 @@ https://github.com/biowdl
 ** z3
 
 * Triage URLs
+- https://flask-socketio.readthedocs.io/en/latest/getting_started.html
+- https://www.lcdf.org/gifsicle/
+- https://datapoems.io/datavis/poems/music.html
+- https://www.blog.radiator.debacle.us/?m=1
+- https://developer.gimp.org/core/setup/git/
+- https://bird.onethreenine.net
+- https://www.etsy.com/shop/StandplaatsKrakow
+- https://poorlycatdraw.threadless.com
+- https://folklorescotland.com
+- https://realmofchaos80s.blogspot.com
+- https://olivia.science/cryptogyny/
+- https://www.dphrygian.com/wordpress/
+- https://www.fragrantica.com/ingredients-search/
+- https://mkvtoolnix.download/docs.html
+- https://rhubarb-games.itch.io
+- https://www.blog.radiator.debacle.us/?m=1
+- https://thinkstack.com
+- https://extensions.blender.org/add-ons/
+- https://extensions.blender.org/add-ons/proto-game-asset-tools/
+- https://poorlycatdraw.gumroad.com/l/medievalcats
+- https://gist.github.com/ideoforms/d64143e2bad16b18de6e97b91de494fd
+- https://store.steampowered.com/app/3327430/Carcass_Clad/
+- https://drawshield.net
+- https://errata.ishtar-collective.net
+- https://en.wikipedia.org/wiki/List_of_generic_forms_in_place_names_in_the_British_Isles
+- https://andrewblair.co.uk/apps/who-title-generator
+- https://deathgenerator.com/#gallery
+- https://github.com/actually-useful-ai/awesome-accessibility
+- https://github.com/foone?tab=repositories
+- https://fragcoord.xyz/s/8jnlz9ti
+- https://binbun3d.itch.io/godot-modular-transitions
+- https://github.com/aphid91/Fluoddity
+- https://cargocollective.com/sagejenson/physarum
+- https://relaxng.org/tutorial.html
+- https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md
+- https://www.prisonpolicy.org/blog/2020/08/28/policingresources/
+- https://en.wikipedia.org/wiki/Encyclopedia_of_Triangle_Centers
+- https://isaiprofitable.com
+- https://virtualosmuseum.org
+- https://film-grab.com
+- https://nginx.org/en/docs/
+- https://polyhaven.com
+- https://github.com/uchicago-justice-project/chicago_crime_map
+- https://www.brockovichdatacenter.com
+- https://labor.dair-institute.org
+- https://ij.org/issues/project-on-immunity-and-accountability/barriers-to-holding-federal-agents-accountable/
+- https://felipepepe.medium.com/my-little-game-history-anthology-4029a0d29089
+- https://airesistlist.org
+- https://f-droid.org/en/
+- https://attenborough-100.vercel.app
+- https://mcfaddenj.substack.com/
+- https://toiletgamestudies.org
+- https://www.gov.uk/government/publications/ministerial-code/ministerial-code
+- https://gdcvault.com/play/1015665/Believable-Tactics-for-Squad
 - https://wiki.free.law
 - https://build-server-protocol.github.io/
 - https://en.wikipedia.org/wiki/Robotic_process_automation
@@ -244,6 +249,7 @@ https://github.com/biowdl
 - [[https://www.cv-library.co.uk/][cv library]]
 - https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
 ** bandcamp
+https://www.azathothblues.com
 https://escote.bandcamp.com/album/column-address-strobe
 https://kaizengameworks.bandcamp.com
 https://beicoli.bandcamp.com/album/laika-aged-through-blood-ost
@@ -431,4 +437,8 @@ words
 - [[file:/media/john/data/github/asdf-plugins/asdf-tlaplus][tlaplus]]
 
 * [[file:../notes/misc.org::Triage][Notes]]
+** dns
+quad9: 9.9.9.9 and 149.112.112.112
+opendns 208.67.222.222 and 208.67.220.220
+
 * [[file:/media/john/data/github/bookmarks/orgs/urls.org][Links/urls]]

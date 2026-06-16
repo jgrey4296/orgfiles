@@ -1,0 +1,69 @@
+#  current.org -*- mode: Org -*- 
+
+
+* Root
+** android connection scripts
+** blood bind
+- {spec} -> {keymap}
+** composer list [[https://en.wikipedia.org/wiki/List_of_classical_music_composers_by_era][wiki list of composers]]
+** definitions
+** split gifs into separate images
+** emacs
+- allow multi gc lock file names
+- envc to activate elements in emacs
+- bookmark add tag helm action
+
+** lisp
+*** package updates
+*** package tests
+** [[file:/media/john/data/github/jgrey4296.github.io/tech_notes/mso][making sense of]] 
+- ltac2
+- sphinx
+- ccalc
+- talespin
+- clingo
+- tla
+- z3
+- ocaml
+- uv locking/freezing/syncing
+- bibtex v variants 
+** pygmentize
+** quotes
+- use rst
+- sphinx domain
+** [[/media/john/data/github/_templates/shells/scripts/chores-weekly][Regular Update Script:]]
+- update apt/snap
+- freshclam
+- bookmarks
+- tags
+- bibtex
+- asdf
+** rocq
+- modal relations
+- ocaml ppx
+- rocq doc
+** [[file:/media/john/data/github/jgrey4296.github.io/week_in_review/index.rst][week in review]]
+** dnsmasq
+** [[/media/john/data/github/jgrey4296.github.io/submodules_/tech_notes/misc/servers.md][servers]]
+** [[/media/john/data/github/jgrey4296.github.io/submodules_/tech_notes/other_langs/ocaml.md][ocaml]]
+** [[/media/john/data/github/jgrey4296.github.io/submodules_/tech_notes/ai_and_logic/rocq.md][rocq]]
+** [[/media/john/data/github/jgrey4296.github.io/submodules_/tech_notes/tools/spreadsheets.md][spreadsheets]]
+** dns
+quad9: 9.9.9.9 and 149.112.112.112
+opendns 208.67.222.222 and 208.67.220.220
+* bibtex
+** bibliography -> the library
+** add types
+- @redirect
+- @retraction
+- @preprint
+** tag word cloud
+** bibble
+- writer defaults into a bibtexwriter
+- test templte writing
+** sphinx bib domain
+- timeline directive
+** refine build task
+** header summarise file
+* homepage
+** add git-lfs
