@@ -1,6 +1,32 @@
 # #  base_agenda.org -*- mode: Org -*- #+STARTUP: content
 #+STARTUP: agenda
 
+* 2026-06-22
+
+
+* 2026-06-22
+- definitions
+- biblio
+- quotes
+- installation to media
+
+TODO:
+- tech notes
+- timelines
+
+* 2026-06-19
+- definitions.
+  still to do:
+  - logic
+  - math
+  - philosophy
+  - science
+  - sociology
+    
+
+* 2026-06-18
+- https://en.wikipedia.org/wiki/The_Third_Man
+
 * 2026-06-16
 - polyglot - routine.
 - algorithmic intractability as aesthetic
@@ -126,6 +152,11 @@ https://github.com/biowdl
 ** z3
 
 * Triage URLs
+- https://www.wikiart.org/en/caspar-david-friedrich/wc-caspar-david-friedrich-das-eismeer
+- https://catscapes.bigcartel.com/products?page=2
+- https://www.nasa.gov/gallery/schlieren/
+- https://namelessquality.com/the-basics-of-destiny-encounter-design/
+- https://verselang.github.io/book/00_overview/
 - https://flask-socketio.readthedocs.io/en/latest/getting_started.html
 - https://www.lcdf.org/gifsicle/
 - https://datapoems.io/datavis/poems/music.html
